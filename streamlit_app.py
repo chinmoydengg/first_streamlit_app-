@@ -1,2 +1,2 @@
 import streamlit 
-streamlit.title(' Welcome to Snoeflake and StreamLit ')
+streamlit.title(' Welcome to Snowflake and StreamLit ')
